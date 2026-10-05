@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "courierpr": {
+      "type": "http",
+      "url": "https://courierpr.com/api/mcp/claude"
+    }
+  }
+}
